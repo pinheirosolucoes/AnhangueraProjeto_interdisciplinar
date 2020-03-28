@@ -19,4 +19,16 @@
 ## Total = 5200 participantes
 
 #### b) Com base nos dados do problema, podemos dizer que o número de usuários que preferem apenas a função “Cadastro” é: 
-#### Resposta: 2200 Somente cadastro
+## Resposta: 2200 Somente cadastro
+
+#### 2) Análise e Modelagem de Sistemas
+#### Baseado no cenário proposto, elabore a modelagem inicial da atividade de Análise de Sistemas em ferramentas CASE de modelagem, 
+#### abrangendo a Modelagem de Processos de Negócio e a Engenharia de Requisitos do software. Considere que a solução deve abranger as 
+#### funcionalidades para realização do cadastro da pessoa física que faz a denúncia, cadastro da localização (estado,cidade e bairro), 
+#### cadastro da denúncia e consulta de acompanhamento do status da denúncia, no mínimo. Seja criativo e complemente a sua solução com 
+#### funcionalidades inovadoras!
+#### A modelagem inicial da atividade de Análise de Sistemas deve contemplar a seguinte especificação
+#### referentes a:
+
+#### 1. Modelagem de Processos de Negócio (Business Process Modeling):
+#### a) O Modelo de Processos de Negócio do tipo fluxo de trabalho; 
