@@ -16,4 +16,7 @@
 
 #### a) A partir dos dados oferecidos, podemos dizer que participaram dessa entrevista;
 #### Resposta: Cadastro(2200) + Denúncia(1700) + as 2 Opções(1000) + Nenhuma Opção(300)
-###### Total = 5200 participantes
+## Total = 5200 participantes
+
+#### b) Com base nos dados do problema, podemos dizer que o número de usuários que preferem apenas a função “Cadastro” é: 
+#### Resposta: 2200 Somente cadastro
