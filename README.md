@@ -31,4 +31,7 @@
 #### referentes a:
 
 #### 1. Modelagem de Processos de Negócio (Business Process Modeling):
-#### a) O Modelo de Processos de Negócio do tipo fluxo de trabalho; 
+#### a) O Modelo de Processos de Negócio do tipo fluxo de trabalho;
+
+#### a resposta é o fluxograma  abaixo
+![imagens opçoes](https://github.com/pinheirosolucoes/AnhangueraProjeto_interdisciplinar/blob/master/fluxograma.png) 
