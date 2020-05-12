@@ -1,10 +1,10 @@
 # AnhangueraProjeto_interdisciplinar
 
 ## participantes do projeto
-### Nome: Eduardo Monteiro Moura – RA: 25618429
-### Nome: Flaviane Rodrigues de Lima – RA: 24725880
-### Nome: Paulo Cézar Bisarria dos Santos – RA: 2622357501
-### Nome: Rodrigo Luiz da Silva Pinheiro – RA: 24802463
+### Nome: Eduardo Monteiro Moura 
+### Nome: Flaviane Rodrigues de Lima 
+### Nome: Paulo Cézar Bisarria dos Santos 
+### Nome: Rodrigo Luiz da Silva Pinheiro
 
 #### 1) Lógica Computacional
 #### Pensando em nossa situação geradora de aprendizagem, vamos além. O sistema já foi concluído,
