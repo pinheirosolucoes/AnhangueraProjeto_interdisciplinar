@@ -1,5 +1,11 @@
 # AnhangueraProjeto_interdisciplinar
 
+## participantes do projeto
+### Nome: Eduardo Monteiro Moura – RA: 25618429
+### Nome: Flaviane Rodrigues de Lima – RA: 24725880
+### Nome: Paulo Cézar Bisarria dos Santos – RA: 2622357501
+### Nome: Rodrigo Luiz da Silva Pinheiro – RA: 24802463
+
 #### 1) Lógica Computacional
 #### Pensando em nossa situação geradora de aprendizagem, vamos além. O sistema já foi concluído,
 #### está em uso e o Ministério da Saúde fará uma pesquisa sobre a funcionalidade do sistema
@@ -84,7 +90,7 @@
 ![imagens opçoes](https://github.com/pinheirosolucoes/AnhangueraProjeto_interdisciplinar/blob/master/UseCaseZeraDengue.jpg)
 
 #### Algoritmos e Programação Estruturada
-####  Você faz parte da equipe de desenvolvimento do sistema Zer@Dengue e ficou encarregado de desenvolver uma estrutura de dados para #### o controle de solicitações do usuário. Uma das funcionalidades do Zer@Dengue é o cadastro de áreas que possuem o foco do mosquito, #### para isso, precisa-se de um método que coloque todas as solicitações do usuário em uma ordem de atendimento. A estrutura de dados #### escolhidas para implementar o controle de solicitações foi a fila. Esta estrutura segue o conceito de FIFO (first in, first out), #### portanto os primeiros elementos a entrarem são os primeiros a saírem da estrutura. Para o sistema do Zer@Dengue é necessário fazer #### a implementação da Fila, sendo que a entrada de dados será o número da solicitação. Cada usuário pode realizar no máximo 20 #### #### solicitações simultâneas. Além destas implementações, será necessário desenvolver os métodos de criar fila, inserir item, remover #### item, retornar fila vazia, tamanho da fila e a sequência armazenada. Todos esses métodos devem ser implementados em funções. #### #### Linguagens sugeridas C / C++.
+####  Você faz parte da equipe de desenvolvimento do sistema Zer@Dengue e ficou encarregado de desenvolver uma estrutura de dados para  o controle de solicitações do usuário. Uma das funcionalidades do Zer@Dengue é o cadastro de áreas que possuem o foco do mosquito,  para isso, precisa-se de um método que coloque todas as solicitações do usuário em uma ordem de atendimento. A estrutura de dados  escolhidas para implementar o controle de solicitações foi a fila. Esta estrutura segue o conceito de FIFO (first in, first out),  portanto os primeiros elementos a entrarem são os primeiros a saírem da estrutura. Para o sistema do Zer@Dengue é necessário fazer  a implementação da Fila, sendo que a entrada de dados será o número da solicitação. Cada usuário pode realizar no máximo 20  solicitações simultâneas. Além destas implementações, será necessário desenvolver os métodos de criar fila, inserir item, remover  item, retornar fila vazia, tamanho da fila e a sequência armazenada. Todos esses métodos devem ser implementados em funções.  Linguagens sugeridas C / C++.
 
 #include <stdio.h>
 struct Fila
@@ -187,7 +193,7 @@ int main()
 }
 
 #### Modelagem Banco de Dados
-#### O sistema Zer@Dengue precisa armazenar várias informações importantes e relevantes ao processo de controle da dengue. Os usuários #### do sistema precisarão de um cadastro, sendo necessário armazenar suas informações pessoais, bem como de login no ambiente. Além #### disso, como parte da principal funcionalidade do sistema, cada usuário poderá indicar locais de possíveis focos de dengue, #### #### enviando fotos, localização etc. Sendo assim, precisamos de um banco de dados para guardar todos estes dados com segurança e #### #### eficiência. Sua tarefa então é fazer um levantamento de requisitos inicial dos tipos de informação que serão armazenadas no banco #### e criar a partir disto um modelo entidade-relacionamento (MER) descrevendo como estas informações estarão relacionadas dentro do #### banco. Inclua no MER as entidades, os relacionamentos (com suas respectivas cardinalidades) e atributos.
+#### O sistema Zer@Dengue precisa armazenar várias informações importantes e relevantes ao processo de controle da dengue. Os usuários  do sistema precisarão de um cadastro, sendo necessário armazenar suas informações pessoais, bem como de login no ambiente. Além  disso, como parte da principal funcionalidade do sistema, cada usuário poderá indicar locais de possíveis focos de dengue,  enviando fotos, localização etc. Sendo assim, precisamos de um banco de dados para guardar todos estes dados com segurança e  eficiência. Sua tarefa então é fazer um levantamento de requisitos inicial dos tipos de informação que serão armazenadas no banco  e criar a partir disto um modelo entidade-relacionamento (MER) descrevendo como estas informações estarão relacionadas dentro do  banco. Inclua no MER as entidades, os relacionamentos (com suas respectivas cardinalidades) e atributos.
 
 ![imagens opçoes](https://github.com/pinheirosolucoes/AnhangueraProjeto_interdisciplinar/blob/master/ZeraDengueBanco.png)
 
