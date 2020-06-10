@@ -1,5 +1,7 @@
 # AnhangueraProjeto_interdisciplinar
 
+### pontuação do grupo: Olá aluno, Seu portfólio atende boa parte dos requisitos solicitados. Segue abaixo alguns itens que podem ser melhorados caso deseje aumentar a sua pontuação. INTRODUÇÃO, CONCLUSÃO, REFERÊNCIAS E NORMAS DA ABNT : Faltou detalhar o que trabalho vai abordar e o propósito da pesquisa na introdução e incluir as referências. . Nesta tarefa você conquistou 90 pontos de um total de 150 . TAREFA 1 – LÓGICA COMPUTACIONAL: Atende os requisitos solicitados. Nesta tarefa você conquistou 670 pontos de um total de 670 . TAREFA 2 – ANÁLISE E MODELAGEM DE SISTEMAS : Faltou incluir alguns Requisitos funcionais e não-funcionais e casos de uso. Ex: Cadastrar usuário, logar sistema/app .... Nesta tarefa você conquistou 630 pontos de um total de 670 . TAREFA 3 - ALGORITMOS E PROGRAMAÇÃO ESTRUTURADA: Neste tarefa você apresentou a estrutura de fila, porem faltou incluir no algoritmo o cadastro de áreas que possuem o foco do mosquito . Nesta tarefa você conquistou 620 pontos de um total de 670 . TAREFA 4 - MODELAGEM BANCO DE DADOS: Atende os requisitos solicitados. Nesta tarefa você conquistou 670 pontos de um total de 670. TAREFA 5 - ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES: Atende os requisitos solicitados. Nesta tarefa você conquistou 670 pontos de um total de 670 . Tutora EAD - Joice Lima
+
 ## participantes do projeto
 ### Nome: Eduardo Monteiro Moura 
 ### Nome: Flaviane Rodrigues de Lima 
